@@ -1,6 +1,6 @@
 # Museum landing page
 
-[DEMO LINK](https://prokivskaaa.github.io/museum-landing/).
+[DEMO LINK](https://prokivskaaa.github.io/Museum/)
 
 Tech stack:
 
